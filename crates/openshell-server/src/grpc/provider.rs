@@ -7414,7 +7414,6 @@ mod tests {
                 "github",
                 "google-cloud",
                 "google-vertex-ai",
-                "kilo",
                 "nvidia",
                 "oci-genai",
                 "openai",
